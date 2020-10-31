@@ -18,3 +18,10 @@ Sabato:
 11:30 - 14:00, 18:00 - 22:00
 Domenica:
 11:30 - 14:00, 18:00 - 22:00
+
+
++39 0331 735949
+
+baffo.63@alice.it
+
+Pizzeria in Cavaria via 4 novembre 402, con posti a sedere dove non paghi il coperto e hai sempre ogni pizza la bibita in omaggio, puoi averle sia d asporto che a domicilio inoltre puoi trovare una vasta gamma di fritti

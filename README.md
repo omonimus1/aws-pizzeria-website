@@ -22,6 +22,8 @@ Domenica:
 
 +39 0331 735949
 
+Via IV Novembre, 402, 21044 Cavaria Con Premezzo VA, Italy
+
 baffo.63@alice.it
 
 Pizzeria in Cavaria via 4 novembre 402, con posti a sedere dove non paghi il coperto e hai sempre ogni pizza la bibita in omaggio, puoi averle sia d asporto che a domicilio inoltre puoi trovare una vasta gamma di fritti

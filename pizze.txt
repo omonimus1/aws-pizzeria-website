@@ -1,48 +1,46 @@
-Ai funghi - pomodoro, mozzarella, funghi - 5.70
-Amalfi - Pom, mozz., mozz. di bufala, pom. fresco, grana -€ 7.50
-Asparagi - Pomodoro, mozzarella, asparagi € 5.70
-Avana -  Pomodoro, asparagi, funghi, gamberetti € 7.80 
-Bianca e verde - Pom., mozzarella, rucola, scaglie di grana. € 6.50 
+Ai funghi-pomodoro, mozzarella, funghi-5.70
+Amalfi-Pom, mozz., mozz. di bufala, pom. fresco, grana -€ 7.50
+Asparagi-Pomodoro, mozzarella, asparagi-€ 5.70
+Avana-  Pomodoro, asparagi, funghi, gamberetti- € 7.80 
+Bianca e verde - Pom., mozzarella, rucola, scaglie di grana.- € 6.50 
 Biancaneve - Mozzarella  €  4.50
-Bismark - Pomodor, mozzarella, pancetta, uovo, patate € 7.50
-Braccio di Ferro - Pomodoro, mozzarella, ricotta, spanic, olive € 6.50
+Bismark - Pomodor, mozzarella, pancetta, uovo, patate- € 7.50
+Braccio di Ferro - Pomodoro, mozzarella, ricotta, spanic, olive- € 6.50
 Bufala - pomodoro, mzozarella, mozzarella di bufala -€ 6.50
 Burratina - Pom., mozz., prosc. crudo, burrata, pomodorini, rucola  -€ 8.00
-Calabrese - Pom., mozz., prsoc. cotto, cipolle, capperi, olive, peperoni € 7.50
-Calzone farcito - Po. Mozzarella, prosciutto cotto   € 6.70
-Calzone Normale - Pomodoro, mozzarlla, prosciutto cotto € 6.00
-Caprese -  Pom. mozz, mozzarella di bufala, pomodoro fresco  € 7.80
-Capri - Pom., mozz, mozz. di  bufala, bresaola, rucola, grana € 8.50
-Capricciosa - Pom., mozz, pro.cotto, carciofi, olive, acciunge € 7.00 
-Carciofi - Pomodoro, mozzarella, carciofi € 5.50
-Cheese Piccante - Pom., mozz, zola, parmigiano, fontina, salame, olio piccante € 7.50
-Ciro', - Pomodoro, mozzarella, salame piccante, peperoni, cipolla € 7.50
-Contadina - Pomodoro, mozzarella, cipolle, speck, scamorza € 7.50
-Crudo - Pomodoro, mozzarella, prosciutto crudo € 6.50
-Crudo e Bufala - Pom., mozz, prosciutto crudo, mozzarella di bufala € 7.80 
-Del Bosco - Pomodoro, mozzarella, gorgonzola, noci € 6.50
-
--------- 
-Della Casa € 6.50 Pom, mozzarella, prosciutto cotto, asparagi, uova
-Diavola € 6.50 Pomorodo, mozzarella, salame piccante
-Diplomatica € 7.80 Pom, mozzarella, bresaola, rucola, scaglie di grana 
-Esotica € 7.80 Pom., mozz, gamberetti, mais, polpa di granchio
-Frutti di Mare € 7.80 Pomodoro, mozzarella, frutti di mare
-Fume' € 7.50 Pomodoro, mozzarella, speck, scamorza
-Gamberetti Rucola € 7.80 Pomodoro, mozzarella, gamberetti, rucola
-Gaspare € 6.00 Pomdoro, cipolle, acciughe, parmigiano 
-Giannone € 7.00 Pom., mozzarella, prosciutto cotto, funghi wurstel
-Gold Sea € 8.00 Pomdoro, mozzarella, calamari fritti, patatine fritte
-Golosa  € 6.50 Pomodoro, mozzarella, salsiccia, funghi, parmigiano 
-Gorgonzola € 5.70 Pomodoro, mozzarella, gorgonzola
-Karthofen € 5.50 Pomodoro, mozzarella, patatine fritte
-La Genovese € 9.50 Mozzarella, pesto, pere, pinoli
-La The King € 10.00 Mozz., lardo, salsa pecorino, pepe, scaglie pecorino
-Lulu' € 7.80 Pomodoro, mozzarella, porcni, speck
-Mais € 5.00 Pomodoro, mozzarella, mais
-Maistosa € 7.00 Pomodoro, mozzarella, tonno, zucchine, mais
-Margherita € 4.50 Pomodoro, mozzarella
-Mari e Monti € 7.80 Pomdoro, mozzarella, porcini, frutti di mare
-Marinara € 3.50 Pomodoro, aglio, origano
-Mediterranea € 7.80 Pom. mozz, salsiccia, porcini, rucola, scaglie di grana
-Messicana € 7.50 Pomodoro, mozzarlla, fagioli, pancetta
+Calabrese - Pom., mozz., prsoc. cotto, cipolle, capperi, olive, peperoni- € 7.50
+Calzone farcito - Po. Mozzarella, prosciutto cotto  - € 6.70
+Calzone Normale - Pomodoro, mozzarlla, prosciutto cotto- € 6.00
+Caprese -  Pom. mozz, mozzarella di bufala, pomodoro fresco - € 7.80
+Capri - Pom., mozz, mozz. di  bufala, bresaola, rucola, grana- € 8.50
+Capricciosa - Pom., mozz, pro.cotto, carciofi, olive, acciunge- € 7.00 
+Carciofi - Pomodoro, mozzarella, carciofi- € 5.50
+Cheese Piccante - Pom., mozz, zola, parmigiano, fontina, salame, olio piccante- € 7.50
+Ciro', - Pomodoro, mozzarella, salame piccante, peperoni, cipolla- € 7.50
+Contadina - Pomodoro, mozzarella, cipolle, speck, scamorza- € 7.50
+Crudo - Pomodoro, mozzarella, prosciutto crudo- € 6.50
+Crudo e Bufala - Pom., mozz, prosciutto crudo, mozzarella di bufala- € 7.80 
+Del Bosco - Pomodoro, mozzarella, gorgonzola, noci -€ 6.50
+Della Casa- Pom, mozzarella, prosciutto cotto, asparagi, uova -€ 6.50
+Diavola  Pomorodo, mozzarella, salame piccante -€ 6.50
+Diplomatica  Pom, mozzarella, bresaola, rucola, scaglie di grana  -€ 7.80
+Esotica- Pom., mozz, gamberetti, mais, polpa di granchio -€ 7.80
+Frutti di Mare - Pomodoro, mozzarella, frutti di mare -€ 7.80
+Fume'- Pomodoro, mozzarella, speck, scamorza  -€ 7.50
+Gamberetti Rucola - € 7.80 Pomodoro, mozzarella, gamberetti, rucola - € 7.80
+Gaspare - Pomdoro, cipolle, acciughe, parmigiano  - € 6.00
+Giannone  - Pom., mozzarella, prosciutto cotto, funghi wurstel -€ 7.00
+Gold Sea- Pomdoro, mozzarella, calamari fritti, patatine fritte - € 8.00
+Golosa-   Pomodoro, mozzarella, salsiccia, funghi, parmigiano - € 6.50
+Gorgonzola - Pomodoro, mozzarella, gorgonzola- € 5.70
+Karthofen - Pomodoro, mozzarella, patatine fritte -€ 5.50
+La Genovese - Mozzarella, pesto, pere, pinoli- € 9.50
+La The King - Mozz., lardo, salsa pecorino, pepe, scaglie pecorino- € 10.00
+Lulu'-  Pomodoro, mozzarella, porcni, speck- € 7.80
+Mais - Pomodoro, mozzarella, mais- € 5.00
+Maistosa- Pomodoro, mozzarella, tonno, zucchine, mais - € 7.00
+Margherita - Pomodoro, mozzarella -€ 4.50
+Mari e Monti - Pomdoro, mozzarella, porcini, frutti di mare -€ 7.80
+Marinara -  Pomodoro, aglio, origano- € 3.50
+Mediterranea- Pom. mozz, salsiccia, porcini, rucola, scaglie di grana - € 7.80
+Messicana-  Pomodoro, mozzarlla, fagioli, pancetta- € 7.50

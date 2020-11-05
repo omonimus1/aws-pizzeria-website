@@ -1,4 +1,4 @@
-# Pizzeria KThe King
+# Pizzeria The King
 This project has been realized with the goal to:
 * Help at least 1 commercial activity in Italy during the COVID-19 crisis; 
 * Learn how to host a website on **Amazon AWS**, using in this case a S3 instance. 

@@ -13,7 +13,7 @@ Free hosting:
 - GitHub: ✔️
 - AWS: ❗Independently from the use, you have 1 year of free tier powered by AWS. With less than 15GB of data transfer, less than 20K GET requests and 2K PUT requested (for a month), Your S3 instance will be free during all the free year tier.
 
-Abilityto choose the Datacenter Region in order to decrease latency:
+Ability to choose the Datacenter Region in order to decrease latency:
 - GitHub: ❌
 - AWS: ✔️
 

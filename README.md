@@ -31,3 +31,5 @@ HTML, CSS, JavaScript, Bootstrap, AWS, Git;
 * [Davide Pollicino](https://github.com/omonimus1/)
 ## Support me
 [Paypal Me](https://www.paypal.com/paypalme/davidepollicino7?locale.x=en_US)
+</br></br>
+<a href="https://www.buymeacoffee.com/omonimus1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

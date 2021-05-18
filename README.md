@@ -5,7 +5,7 @@ Thank so this pratical experience, I could understand the immediatekey differenc
 * [GitHub Pages hosted website]
 * [AWS SE Hosted Website](https://pizzeria-king-webapp.s3.eu-west-2.amazonaws.com/pizzeria-the-king/index.html)
 * [Azure Hosted Website]() 
-* 
+
 Time required to host your website:
 - GitHub: 2 minutes.
 - AWS: 6/7 minutes.
@@ -38,3 +38,7 @@ HTML, CSS, JavaScript, Bootstrap, Git;
 ## Contributor to the project
 * [Davide Pollicino](https://github.com/omonimus1/)
 
+## Resources
+* [Host website on GitHUb pages](https://medium.com/any-writers/how-to-host-a-static-website-on-github-for-free-f47b12790775)
+* [Host WebSite in AWS](https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/)
+* [Host WebSite in Azure]()

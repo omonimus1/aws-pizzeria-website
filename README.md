@@ -35,3 +35,8 @@ Frequent updates:
 * [Host website on GitHUb pages](https://medium.com/any-writers/how-to-host-a-static-website-on-github-for-free-f47b12790775)
 * [Host WebSite in AWS](https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/)
 * [Host WebSite in Azure](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal)
+
+
+
+## Apply for a mentorship session with me (get a 7 days free trial)
+<a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-mentoring-badge.svg" width="240" alt="MentorCruise"> </a>
